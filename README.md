@@ -2,13 +2,14 @@
  * @Author: bill Lin_k_Bill@163.com
  * @Date: 2022-12-18 14:39:05
  * @LastEditors: bill Lin_k_Bill@163.com
- * @LastEditTime: 2022-12-18 15:47:11
+ * @LastEditTime: 2022-12-18 16:00:57
  * @FilePath: /webpack-loader-note/README.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
 ## webpack：loader和plugin实现
 
 [参考文章](https://juejin.cn/post/6976052326947618853#heading-13)
+关于[手动搭建webpack](https://github.com/Bill70058/webpack-note)
 
 ### 文件结构
 - company-loader: 实现自定义的loader
